@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Cropper</string>
+    <string name="crop_image">Crop Image</string>
+    <string name="crop">Crop</string>
+</resources>
